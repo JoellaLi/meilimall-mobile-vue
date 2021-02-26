@@ -1,5 +1,5 @@
 <template>
-  <h2>detail: {{iid}}</h2>
+  <h2>detail: 展示商品 编号为：{{iid}}</h2>
 </template>
 
 <script>
